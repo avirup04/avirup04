@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Avirup Mukhopadhyay aka "The Real Voyager" 🚀
+# 👋 Yo, I'm Avirup Mukhopadhyaya aka "The Real Voyager" 🚀
 
 Welcome to my universe of tech, creativity & futuristic projects. I'm not just a dev — I'm building my own JARVIS 🤖✨
 
