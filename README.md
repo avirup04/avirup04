@@ -2,7 +2,7 @@
   <img src="https://github.com/avirup04/avirup04/blob/main/avatar.jpg?raw=true" width="1000" alt="Avirup's Avatar"/>
 </p>
 
-<h1 align="center">Yo! I'm Avirup 👨‍💻</h1>
+<h1 align="center">👋 Yo, I'm Avirup Mukhopadhyaya aka "The Real Voyager" 🚀</h1>
 
 <p align="center">
   🔥 Tech enthusiast | 🤖 Building JARVIS IRL | 🛡️ Ethical Hacker in progress
