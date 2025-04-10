@@ -8,6 +8,16 @@
   🔥 Tech enthusiast | 🤖 Building JARVIS IRL | 🛡️ Ethical Hacker in progress
 </p>
 
+---
+
+### 🚀 Currently Vibing With:
+- 🧠 AI, ML & Robotics
+- 💻 Jetson Nano + Pi setups
+- 🔐 Kali Linux & Cybersecurity
+- 🎨 Illustrator & Photoshop for cool diagrams
+
+---
+
 ### 🔗 Connect With Me
 
 - 📸 Instagram: [okayscintific.guy](https://instagram.com/okayscintific.guy)  
