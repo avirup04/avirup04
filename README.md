@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/avirup04/avirup04/blob/main/avatar.jpg?raw=true" width="200" alt="Avirup's Avatar"/>
+  <img src="https://github.com/avirup04/avirup04/blob/main/avatar.jpg?raw=true" width="1000" alt="Avirup's Avatar"/>
 </p>
 
 # 👋 Yo, I'm Avirup Mukhopadhyaya aka "The Real Voyager" 🚀
